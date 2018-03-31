@@ -4,6 +4,7 @@
 build
 dist
 scrapely.egg-info
+templates
 
 # coverage reports
 .coverage
